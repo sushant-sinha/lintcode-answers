@@ -1,10 +1,22 @@
+// SUSHANT SINHA
+
+// 1418ms 11.26mb ( 85.45% )
+
+/*
+
+ based on Sieve of Eratosthenes
+
+ For more details : https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+
+*/
+
 import java.util.Scanner;
 
 public class Main {
 	public static void main(String[] args) {
         // write your code here
         // read data from console
-        
+
 		Scanner sc=new Scanner(System.in);
 		int n=sc.nextInt();
 		boolean ar[]=new boolean[n+1];
