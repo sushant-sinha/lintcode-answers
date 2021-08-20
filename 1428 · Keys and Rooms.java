@@ -1,3 +1,5 @@
+// 230ms ( 83.81% ) 17.29mb
+
 public class Solution {
     /**
      * @param rooms: a list of keys rooms[i]
