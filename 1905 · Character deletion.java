@@ -1,3 +1,7 @@
+// SUSHANT SINHA
+
+// 277ms ( 97.60% ) 18.26mb
+
 public class Solution {
     /**
      * @param str: The first string given
